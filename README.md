@@ -4,7 +4,8 @@ Proyecto de juegos retro creado por [Vengeance00](https://github.com/Vengeance00
 
 
 ## Requerimientos
-Angular CLI Version 15.0.4
+Angular CLI Version 15.0.4  
+
 Node Version 16.14.2
 
 ## Instalación
