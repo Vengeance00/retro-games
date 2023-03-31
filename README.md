@@ -1,27 +1,16 @@
 # RetroGames
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+Proyecto de juegos retro creado por [Vengeance00](https://github.com/Vengeance00) y [JRobertoMA](https://github.com/JRobertoMA) con el cual intentamos crear un repositorio de juegos de dominio público.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Requerimientos
+Angular CLI Version 15.0.4
+Node Version 16.14.2
 
-## Code scaffolding
+## Instalación
+Primero clona el repositorio con **git clone**.  
+Ejecuta el comando **npm install** para descargar las dependencias del proyecto.  
+Para levantar el server ejecuta el comando **ng serve -o**, creará un localhost en el puerto **4200**, en caso de que tu compuradora este usando ese puerto ejecuta el comando **ng serve -p puerto** para ejecutar en el puerto de tu preferencia.  
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Version
+**V0.0.1**
